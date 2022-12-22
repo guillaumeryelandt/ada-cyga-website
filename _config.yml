@@ -1,6 +1,7 @@
-theme: jekyll-theme-minimal
-title: ADA Template Website
-description: A template website for ADA
+theme: jekyll-theme-cayman
+title: The evolution of the gender gap in the film industry
+description: Our goal with this work is to analyze the evolution in time of sexism and women discrimination in the film industry, 
+which is known as one of the least women-friendly industries
 show_downloads: True
 navigation:
   - title: Home
